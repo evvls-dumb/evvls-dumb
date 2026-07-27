@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=180&section=header&text=evvls&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-Developer • Reverse Engineer • Systems Explorer
+Developer • Reverse Engineer • Dumb
 </p>
 
 <p align="center">
